@@ -1,0 +1,159 @@
+
+.description img{
+	height: 100%;
+    display: block;
+    width: 45%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.end li{
+	list-style-type:none;
+}
+
+textarea.epitaph{
+	position: absolute;
+    top: 45%;
+    left: 33%;
+    width: 50%;
+	font-family: "Courier New", Courier, monospace;
+    background-color:transparent;
+    outline:none;
+	color:white;
+	border: 0px solid;
+	font-size:1em;
+	height:23%;
+}
+
+p.tomb_name{
+	position: absolute;
+    top: 15%;
+    left: 38%;
+    font-size: 2em;
+    width: 30%;
+}
+.epitaph{
+	position: fixed;
+    top: 45%;
+    left: 40%;
+    width: 25%;
+}
+
+body{
+	background-color:black;
+	color:white;
+	margin-top:25px;
+}
+
+#game {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	font-size: 2em;
+	font-family: "Courier New", Courier, monospace
+}
+
+input {
+	font-family: "Courier New", Courier, monospace;
+    background-color:transparent;
+    border: 0px solid;
+    height:30px;
+    width:auto;
+	outline:none;
+	color:white;
+	font-size:1em;
+	margin-left:10px;
+}
+
+#topBorderTitle{
+	width:100%;
+	margin-top: -70px;
+}
+
+img.frillyBottom{
+	width:100%;
+	padding-top: 15px;
+	top: 75%;
+    position: absolute;
+    right: 0;
+}
+
+img.bottomBorder{
+	width:100%;
+	padding-top: 15px;
+	top: 87%;
+    position: absolute;
+    right: 0;
+}
+
+img.topBorder{
+	width:100%;
+}
+
+.option_menu li input{
+	margin-left:0px;
+}
+
+name.input{
+	margin-left:0px;
+}
+
+.option_menu{
+	margin-top:20px;
+	text-align:left;
+}
+
+.options{
+	margin-top:25px;
+	margin-bottom:25px;
+
+}
+
+.option_menu li {
+    margin-top: 0px;
+    margin-left: 95px;
+}
+
+.whiteBox{
+	background-color:white;
+	color:black;
+	display: inline-block;
+	font-weight:bold;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+.cost{
+	position:absolute;
+	left: 17em;
+}
+
+.center_screen_menu{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -50px;
+    width: 500px;
+    height: auto;
+	background-color:black;
+	color:white;
+	border:outset;
+	border-color:white;
+	vertical-align:center;
+}
+
+.center_screen_input{
+	width:55px;
+	margin-left:0px;
+}
+
+#fishingAnim img {
+	width: 50%;
+    height: 450px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
